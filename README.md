@@ -1,2 +1,2 @@
-# Implementaci-n-de-AI
+# Implementacion-de-AI
 Aplicación con algoritmo árbol de decisión.
